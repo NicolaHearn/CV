@@ -1,0 +1,5 @@
+08/11/2022 - Paired with Maria Dikarova and received some awesome feedback "Had a fantastic pairing with Nicola Hearn today! She's absolutely amazing, has tons of knowledge and was so patient with me! Brilliant programmer and an awesome person. Thanks a lot"
+
+08/11/2022 - During pairing managed to resolve us being out of sync in github commits by doing a git reset. It didn't feel that complicated but I know that in the past I have really struggled with things being out of sync, haven't understood error messages and have often ended up simply deleting directories instead of using git to navigate. So I can see that I'm definitely understanding git better and becoming more confident about it. 
+
+08/11/2022 - Had a good chat with Eoin about worries on the course, it was a bit difficult for me because I have never had a good outcome when I've 'asked for help'. I think I have put a lot of effort into being a good communicator over the last few years and I felt like it paid off in this conversation.
