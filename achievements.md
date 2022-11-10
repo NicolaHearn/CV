@@ -3,3 +3,5 @@
 08/11/2022 - During pairing managed to resolve us being out of sync in github commits by doing a git reset. It didn't feel that complicated but I know that in the past I have really struggled with things being out of sync, haven't understood error messages and have often ended up simply deleting directories instead of using git to navigate. So I can see that I'm definitely understanding git better and becoming more confident about it. 
 
 08/11/2022 - Had a good chat with Eoin about worries on the course, it was a bit difficult for me because I have never had a good outcome when I've 'asked for help'. I think I have put a lot of effort into being a good communicator over the last few years and I felt like it paid off in this conversation.
+
+10/11/2022 - Enjoyed doing the single method program about testing good grammar. Slowed down a bit and focussed on learning rather than getting through the exercise. I enjoyed using regex. It's something I have struggled with a bit in the past so I took some time to do some learning in order to use this in my code. I also made an effort to add an edge case that wasn't mentioned in the exercise specifications.
