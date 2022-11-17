@@ -1,0 +1,1 @@
+17/11/2022: Until now I have mostly spent time on the set exercises from makers academy. I would like to write down my own goals and other types of work to work through as well. Today I started watching the Harvard CS50 series on youtube. I have been intending to do this for a while and just getting round to it now!
