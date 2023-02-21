@@ -12,7 +12,7 @@ A recent <a href="https://makers.tech/">Makers Academy</a> graduate returning to
 
 You can see all of work thus far on my github <a href="https://github.com/sus111">profile</a>.
 
-## CORE SKILLS
+## SKILLS
 
 | Tech | Interpersonal | Other |
 | ----- | -------- | --------- |
