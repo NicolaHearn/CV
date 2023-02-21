@@ -22,20 +22,20 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 
 ### Kitchen/Prep Assistant | Colicci Cafes | Jun 2022 - Sept 2022
 
-#### Digital Experience Intern Developer | NTT Data | Sept 2021 - Jan 2022
+### Digital Experience Intern Developer | NTT Data | Sept 2021 - Jan 2022
 * Contributing to building a social platform in React which aimed to provide employees with an online space to share hobbies and tutorials to improve wellbeing and team cohesion
 
-#### Cargo Bike Delivery Rider | PedalMe | Feb - Sept 2020
+### Cargo Bike Delivery Rider | PedalMe | Feb - Sept 2020
 
-#### Founder and Director | Third Space Canteen | Jul 2017 - May 2020
+### Founder and Director | Third Space Canteen | Jul 2017 - May 2020
 * Sole founder and lead of sustainable canteen. Developed an idea, vision and strategy for innovative new service idea. Built relationships and collaborated on delivering projects with other sustainable food brands including Bermondsey Street Bees, Snact, Oddbox and Toast Ale.
 
-#### Family Leave | Oct 16 - Jul 17
+### Family Leave | Oct 16 - Jul 17
 
-#### Supply Chain Analyst | MOnica Vinader | Feb 2016 - Sept 2016
+### Supply Chain Analyst | MOnica Vinader | Feb 2016 - Sept 2016
 * Shared reports across the company to enable decision-making, analysed data and worked with senior analyst to make recommendations for new stock orders.
 
-#### Business Intelligence & Data Analyst | Hachette UK | Jul 2013 - Dec 2015
+### Business Intelligence & Data Analyst | Hachette UK | Jul 2013 - Dec 2015
 * Gathered requirements, planned workloads and delivered suites of new reports for people working across the company.
 * Managed the helpdesk queue, investigated and resolved issues for both internal and external publishers, escalating to managers/BI Architect where necessary. Relationship managed with customers about helpdesk items and liaised with system developers to keep people informed about future Cognos solutions and progress.
 * Managed a helpdesk team. Significantly improved customer and employee satisfaction by implementing a new prioritisation process. Reduced call backlog from over 100 to 5 within 1 month.
@@ -43,18 +43,18 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 * Produced documentation, user guides, developed and ran a Cognos training programme and set up a monthly super user meeting. Played a key role in championing ‘Cognos’, led on gathering requirements and increased engagement for the company’s data analytics system.
 * As part of the IT Support team I led a number of initiatives relating to improving processes within the IT Support Team and providing a better service for customers such as the creation of a blog ‘Tech Tips’ to help people make better use of the technology available to them.
 
-#### Project Officer | Penguin Books | Dec 2010 - Jul 2013
+### Project Officer | Penguin Books | Dec 2010 - Jul 2013
 * Managed the project office for a team of 7, including 3 Project Managers, 2 Operations Managers and 2 Project Analysts, reporting directly to the Head of Business Improvement.
 * Set up SharePoint sites and developed productivity and process improvement tools on the SharePoint intranet to enable easier cross-departmental working. I worked across 7 different departments and set up over 30 SharePoint sites, three of which were designed using SharePoint designer.
 * Led coordination and event planning for a Leadership Programme. There were 10 attendees, 18 workshops, a self-development module working with external consultants and 5 project presentation sessions. 
 * Supported Penguin departments to comply with Business Continuity policy. I worked across all departments to maintain 19 Business Impact Analyses and Recovery Plans. I explained the process to senior business users and engaged them to take ownership of their plans.
 
-#### Sales and Marketing Assistant | Abrams Books | Sept 2008 - Dec 2010
+### Sales and Marketing Assistant | Abrams Books | Sept 2008 - Dec 2010
 * Arranged annual sales conference for 30 people and logistics and meetings for the team attending the London Book Fair.
 * Liaised with international sales teams, collated and sent out sales packs and information sheets, responded to ad-hoc queries.
 * Maintained pre-publication schedule, ensuring sales members were aware of changes to book covers, prices etc.
 
-#### PA/Team Admin Assistant | HOly Trinity Brompton | Sept 2006 - Sept 2008
+### PA/Team Admin Assistant | HOly Trinity Brompton | Sept 2006 - Sept 2008
 * Maintained schedules, made travel arrangements, set up meetings and responded to email enquiries.
 * Assisted in the organisation of an annual conference for over 800 guests.
 
