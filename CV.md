@@ -16,7 +16,7 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 
 | Tech | Interpersonal | Other |
 | ----- | -------- | --------- |
-| <ul><li>OOP, TDD, SOLID, MVC, DDD</li><li>Github including Github Projects</li><li>Excellent debugging skills</li><li>Pairing</li></ul> | * Client Relationship Building * Independent learner and problem-solver * Excellent Communication Skills | * Helpdesk Management * Curiosity for code and passionate and coding for good * Certified in Business Analysis * Certified in Agile Project Management |
+| <ul><li>OOP, TDD, SOLID, MVC, DDD</li><li>Github including Github Projects</li><li>Excellent debugging skills</li><li>Pairing</li></ul> | <ul><li>Client Relationship Building</li><li>Independent learner and problem-solver</li><li>Excellent Communication Skills</li></ul> | <ul><li>Helpdesk Management</li><li>Curiosity for code and passionate about coding for good</li><li>Certified in Business Analysis</li><li>Certified in Agile Project Management</li></ul> |
 
 ## EXPERIENCE
 
