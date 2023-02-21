@@ -14,9 +14,9 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 
 ## CORE SKILLS
 
-| Tech | Interpersonal | Other
-| ----- | -------- |
-| * OOP, TDD, SOLID, MVC, DDD * Github including Github Projects * Excellent debugging skills * Pairing | * Client Relationship Building * Independent learner and problem-solver * Excellent Communication Skills | * Helpdesk Management * Curiosity for code and passionate and coding for good * Certified in Business Analysis * Certified in Agile Project Management 
+| Tech | Interpersonal | Other |
+| ----- | -------- | --------- |
+| * OOP, TDD, SOLID, MVC, DDD * Github including Github Projects * Excellent debugging skills * Pairing | * Client Relationship Building * Independent learner and problem-solver * Excellent Communication Skills | * Helpdesk Management * Curiosity for code and passionate and coding for good * Certified in Business Analysis * Certified in Agile Project Management |
 
 ## EXPERIENCE
 
