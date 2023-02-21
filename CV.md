@@ -5,7 +5,7 @@ A recent <a href="https://makers.tech/">Makers Academy</a> graduate returning to
 
 ## PROJECTS
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
-| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| -------------------------- |:-----------------------------------------------------------------------------|:-------------------|-------------------|
 | [40 x 40 Challenge](https://github.com/NicolaHearn/40x40Challenge)      | A webapp to keep track of bucket list goals      | MongoDB, Express, React with Typescript, Node            | MongoDB, Express, Jest, Cypress   |
 | [Job Buddy](https://github.com/NicolaHearn/jobBuddy)       | A webapp to track job appliactions.                                         | MongoDB, Express, React, Node           | Jest, Cypress                    |
 | [Ikea or Cheese](https://github.com/NicolaHearn/IkeaOrCheese)            | A web version of the popular lockdown game.  | HTML, CSS, Javascript        | Jest      |   
@@ -14,15 +14,9 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 
 ## CORE SKILLS
 
-| * OOP, TDD, SOLID, MVC, DDD
-* Github including Github Projects
-* Excellent debugging skills
-* Certified in Business Analysis
-* Certified in Agile Project Management                | *Pairing
-* Client Relationship Building
-* Helpdesk Management
-* Curiosity for code and passionate and coding for good
-* Independent learner and problem-solver
+| Tech | Interpersonal | Other
+| ----- | -------- |
+| * OOP, TDD, SOLID, MVC, DDD * Github including Github Projects * Excellent debugging skills * Pairing | * Client Relationship Building * Independent learner and problem-solver * Excellent Communication Skills | * Helpdesk Management * Curiosity for code and passionate and coding for good * Certified in Business Analysis * Certified in Agile Project Management 
 
 ## EXPERIENCE
 
