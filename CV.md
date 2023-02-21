@@ -3,7 +3,7 @@
 
 A recent <a href="https://makers.tech/">Makers Academy</a> graduate returning to a career in technology having taken an extended career break to set up a social enterprise focus on family. Having completed such an intesive developer bootcamp, I have grown from an interested amateur coder into a competent and confident junior developer. I love bringing ideas to life whether that's setting up a knowledge-sharing network or creating an app. It's extremely rewarding to take a big vision, break it down into manageable tasks and see it come to life.
 
-## <span style="color: blue"> *PROJECTS* </span>
+## PROJECTS
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
 | -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|
 | [40 x 40 Challenge](https://github.com/NicolaHearn/40x40Challenge)      | A webapp to keep track of bucket list goals      | MongoDB, Express, React with Typescript, Node            | MongoDB, Express, Jest, Cypress   |
@@ -20,7 +20,7 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 
 ## EXPERIENCE
 
-#### Kitchen/Prep Assistant | Colicci Cafes | Jun 2022 - Sept 2022
+### Kitchen/Prep Assistant | Colicci Cafes | Jun 2022 - Sept 2022
 
 #### Digital Experience Intern Developer | NTT Data | Sept 2021 - Jan 2022
 * Contributing to building a social platform in React which aimed to provide employees with an online space to share hobbies and tutorials to improve wellbeing and team cohesion
