@@ -65,12 +65,12 @@ You can see all of work thus far on my github <a href="https://github.com/sus111
 * Assisted in the organisation of an annual conference for over 800 guests.
 
 ## EDUCATION
-BCS British Institute for IT Practitioner Certificate in Business Analysis, Dec 2021
-APMG AgilePM Foundation Certification, Sept 2021
-BCS British Insitute for IT Foundation Certificate in Business Analysis, Aug 2020 
-Cognos Framework Manager Fundamentals Certificate, 2014
-Cognos Report Studio Fundamentals Course Certificate, 2014
-2:1 - BA French and Russian, 2006, Exeter University
+* BCS British Institute for IT Practitioner Certificate in Business Analysis, Dec 2021
+* APMG AgilePM Foundation Certification, Sept 2021
+* BCS British Insitute for IT Foundation Certificate in Business Analysis, Aug 2020 
+* Cognos Framework Manager Fundamentals Certificate, 2014
+* Cognos Report Studio Fundamentals Course Certificate, 2014
+* 2:1 - BA French and Russian, 2006, Exeter University
 
 ## INTERESTS
 * Tech meet-ups, including regular pairing with Ladies Who Code
