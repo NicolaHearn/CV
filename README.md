@@ -1,7 +1,7 @@
 # NICOLA HEARN
 [SKILLS](#skills) | [EDUCATION](#education) | [EXPERIENCE](#experience) | <a href="http://rainbowtrotsky.tumblr.com"/>CODEWARS</a> 
 
-A recent <a href="https://makers.tech/">Makers Academy</a> graduate returning to a career in technology having taken an extended career break to set up a social enterprise focus on family. Having completed such an intesive developer bootcamp, I have grown from an interested amateur coder into a competent and confident junior developer. I love bringing ideas to life whether that's setting up a knowledge-sharing network or creating an app. It's extremely rewarding to take a big vision, break it down into manageable tasks and see it come to life.
+A recent <a href="https://makers.tech/">Makers Academy</a> graduate returning to a career in technology via the Entain x MacLaren returner's programme having taken an extended career break to set up a social enterprise focus on family. Having completed such an intensive developer bootcamp, I have grown from an interested amateur coder into a competent and confident junior developer. I love bringing ideas to life whether that's setting up a knowledge-sharing network or creating an app. It's extremely rewarding to take a big vision, break it down into manageable tasks and see it come to life.
 
 ## PROJECTS
 | Name                       | Description                                                                   | Technologies                     |  Testing                           |
