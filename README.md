@@ -9,7 +9,7 @@ A recent <a href="https://makers.tech/">Makers Academy</a> graduate returning to
 | [40 x 40 Challenge](https://github.com/NicolaHearn/40x40Challenge)      | A webapp to keep track of bucket list goals      | MongoDB, Express, React with Typescript, Node            | MongoDB, Express, Jest, Cypress   |
 | [Job Buddy](https://github.com/NicolaHearn/jobBuddy)       | A webapp to track job appliactions.                                         | MongoDB, Express, React, Node           | Jest, Cypress                    |
 | [Ikea or Cheese React ](https://github.com/NicolaHearn/IkeaOrCheeseReact) | A web version of the popular lockdown game | React, Javascript | Jest, Selenium 
-| [Ikea or Cheese Console](https://github.com/NicolaHearn/IkeaOrCheese)            | Console game  | HTML, CSS, Javascript        | Jest, Selenium      |   
+| [Ikea or Cheese Console](https://github.com/NicolaHearn/IkeaOrCheese)            | Console game  | node.js, Javascript        | Jest      |   
 
 You can see all of work thus far on my github <a href="https://github.com/sus111">profile</a>.
 
